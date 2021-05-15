@@ -1,0 +1,14 @@
+{
+  "name": "moment",
+  "version": "1.0.0",
+  "description": "clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "author": "Tyus",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
